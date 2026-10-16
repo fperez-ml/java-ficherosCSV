@@ -59,7 +59,7 @@ public class TransformarDatosCSV {
 
     }
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
 
         if (args == null || args.length == 0) {
             System.out.println("ERROR: fichero no válido");
